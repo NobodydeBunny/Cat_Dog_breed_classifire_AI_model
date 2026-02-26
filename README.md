@@ -1,6 +1,6 @@
 # Cat & Dog Breed Classifier AI Model
 
-This repository contains AI models to classify cat and dog breeds, as well as a model to identify whether an image contains a cat or a dog. It includes training and prediction notebooks along with pre-trained models.
+This repository contains AI models to classify cat and dog breeds, as well as a model to identify whether an image contains a cat or a dog. It includes training and prediction notebooks along with the trained models.
 
 ## Overview
 
@@ -15,10 +15,9 @@ The project is implemented using deep learning with convolutional neural network
 
 | Folder / File | Description |
 |---------------|-------------|
-| `Cats_breed/` | Jupyter notebook and pre-trained model for predicting cat breeds. |
-| `Dogs_breed/` | Jupyter notebook and pre-trained model for predicting dog breeds. |
-| `cats_dogs_binary_classifier_imp_01/` | Binary classifier for identifying whether an image is a cat or a dog, including a notebook and a Google Drive link to the pre-trained model. |
-| `README.md` | This documentation file. |
+| `Cats_breed/` | Jupyter notebook and the trained model for predicting cat breeds. |
+| `Dogs_breed/` | Jupyter notebook and the trained model for predicting dog breeds. |
+| `cats_dogs_binary_classifier_imp_01/` | Binary classifier for identifying whether an image is a cat or a dog, including a notebook and a Google Drive link to the trained model. |
 
 ## Requirements
 
